@@ -7,4 +7,5 @@
   def Walk
     puts "The Person is Walking"
     
+    end
   end
